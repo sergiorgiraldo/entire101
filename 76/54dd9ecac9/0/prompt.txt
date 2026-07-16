@@ -1,0 +1,5 @@
+which operations are in the calculator?
+
+---
+
+implement multiplication, no need for unit tests
